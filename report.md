@@ -12,7 +12,7 @@
 ## Описание процесса тестирования
 
 В процессе тестирования использовались следующие артефакты:
-* [Java-код приложения Money Transfer]()
+* [Java-код приложения Money Transfer](https://github.com/nmoraru/javaqa_2.1/blob/master/src/Solution.java)
 
 В качестве тестовых данных использовались данные:
 * account = 2_000_000_000 : OK
@@ -21,4 +21,4 @@
 Тестирование производилось в следующем окружении:
 * Windows 10 Pro 64 бит.
 * Java openjdk version "11.0.6" 2020-01-14
-* git version 2.26.0.windows.1
+* IntelliJ IDEA 2019.2.4 (Community Edition) version: 11.0.4+10-b304.77 amd64
