@@ -7,7 +7,7 @@
 На тестирование затрачено: 0,5 часа
 
 В результате тестирования выявлены следующие дефекты:
-* [000001 Некорректный тип переменных account, order и total](https://github.com/nmoraru/javaqa_2.1/issues/1)
+* [Некорректный тип переменных account, order и total](https://github.com/nmoraru/javaqa_2.1/issues/1)
 
 ## Описание процесса тестирования
 
